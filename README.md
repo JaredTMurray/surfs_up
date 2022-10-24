@@ -12,7 +12,7 @@ You will earn a perfect score for Deliverable 1 by completing all requirements b
 - A working query is written to retrieve the June temperatures from the date column of the Measurement table. (10 pt)
 - The temperatures are added to a list. (10 pt) 
 - The list of temperatures is converted to a Pandas DataFrame. (10 pt)
-### Deliverable 2 Requirements
+### Deliverable 2 Requirements: Determine the Summary Statistics for December (40 points)
 You will earn a perfect score for Deliverable 2 by completing all requirements below:
 - A working query is written to retrieve the December temperatures from the date column of the Measurement table (10 pt)
 - The temperatures are added to a list. (10 pt)
