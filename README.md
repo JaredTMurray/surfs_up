@@ -7,7 +7,7 @@ The purpose of the analysis is well defined. (3 pt)
 
 ## Results:
 There is a bulleted list that addresses the three key differences in weather between June and December. (6 pt)
-### Deliverable 1 Requirements
+### Deliverable 1 Requirements: Determine the Summary Statistics for June (40 points)
 You will earn a perfect score for Deliverable 1 by completing all requirements below:
 - A working query is written to retrieve the June temperatures from the date column of the Measurement table. (10 pt)
 - The temperatures are added to a list. (10 pt) 
