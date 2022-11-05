@@ -26,14 +26,14 @@ Input In [42], in <cell line: 9>()
       8 # Save references to each table
 ----> 9 Measurement = Base.classes.measurement
 Since I could not determine the excepted results.
-[SurfUp_Challege file](#)
+[SurfUp_Challege file](https://github.com/JaredTMurray/surfs_up/blob/main/SurfsUp_Challenge.ipynb)
 ### Deliverable 2: Summary Statistics for December
  The variable month_dec was used to store the December.
 Several errors occur
 -  A KeyError Traceback (most recent call last)
 -  NameError
 -  Attribute Error
-See output file [SurfUp_Challege file](#)
+See output file [SurfUp_Challege file](https://github.com/JaredTMurray/surfs_up/blob/main/SurfsUp_Challenge.ipynb)
 
 ### Summary:
 Additional time is needed to add two additional queries to perform to gather more weather data for June and December.
