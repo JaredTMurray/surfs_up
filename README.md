@@ -7,9 +7,24 @@ W. Avy likes wants information about temperature data for the months of June and
  - Deliverable 2: Determine the Summary Statistics for December
 
 ## Results:
-There is a bulleted list that addresses the three key differences in weather between June and December. (6 pt)
-### Deliverable 1 Requirements: Determine the Summary Statistics for June (40 points)
-You will earn a perfect score for Deliverable 1 by completing all requirements below:
+
+## Deliverable 1: Summary Statistics for June 
+ Variable month_june was used to stote the value in dataframe
+
+ A KeyError Traceback (most recent call last)
+File ~\anaconda3\lib\site-packages\sqlalchemy\util\_collections.py:186, in Properties.__getattr__(self, key)
+    185 try:
+--> 186     return self._data[key]
+    187 except KeyError:
+KeyError: 'measurement'
+During handling of the above exception, another exception occurred:
+AttributeError                            Traceback (most recent call last)
+Input In [42], in <cell line: 9>()
+      6 Base.prepare(engine, reflect=True)
+      8 # Save references to each table
+----> 9 Measurement = Base.classes.measurement
+ - Since I could not determine the excepted results.
+ - Seee out 
 - A working query is written to retrieve the June temperatures from the date column of the Measurement table. (10 pt)
 - The temperatures are added to a list. (10 pt) 
 - The list of temperatures is converted to a Pandas DataFrame. (10 pt)
