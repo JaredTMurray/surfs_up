@@ -10,8 +10,9 @@ W. Avy likes wants information about temperature data for the months of June and
 
 ## Deliverable 1: Summary Statistics for June 
  The variable month_june was used to store the June value in the dataframe.
-
--  A KeyError Traceback (most recent call last)
+Several errors occur
+-  NameError Traceback (most recent call last)
+-  Attribute Error
 
 File ~\anaconda3\lib\site-packages\sqlalchemy\util\_collections.py:186, in Properties.__getattr__(self, key)
     185 try:
@@ -27,14 +28,12 @@ Input In [42], in <cell line: 9>()
 Since I could not determine the excepted results.
 [SurfUp_Challege file](#)
 ### Deliverable 2: Summary Statistics for December
- The variable month_dec was used to store the June value in the dataframe.
-
-You will earn a perfect score for Deliverable 2 by completing all requirements below:
-- A working query is written to retrieve the December temperatures from the date column of the Measurement table (10 pt)
-- The temperatures are added to a list. (10 pt)
-- The list of temperatures is converted to a Pandas DataFrame. (10 pt)
-- Summary statistics are generated for the DataFrame. (10 pt)
+ The variable month_dec was used to store the December.
+Several errors occur
+-  A KeyError Traceback (most recent call last)
+-  NameError
+-  Attribute Error
+See output file [SurfUp_Challege file](#)
 
 ### Summary:
-
-There is a high-level summary of the results and there are two additional queries to perform to gather more weather data for June and December. (5 pt)
+Additional time is needed to add two additional queries to perform to gather more weather data for June and December.
