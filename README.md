@@ -2,7 +2,7 @@
 ## Analysis Report
 
 ## Overview of the statistical analysis:
-W. Avy likes wants information about temperature data for the months of June and December in Oahu, in order to determine if the surf and ice cream shop business is sustainable year-round. The Resuslts would content the following:
+W. Avy likes wants information about temperature data for the months of June and December in Oahu, in order to determine if the surf and ice cream shop business is sustainable year-round. The Results would content the following:
  - Deliverable 1: Determine the Summary Statistics for June
  - Deliverable 2: Determine the Summary Statistics for December
 
