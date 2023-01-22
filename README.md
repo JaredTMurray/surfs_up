@@ -15,7 +15,7 @@ for the assignment I used Python, Pandas functions and methods, and SQLAlchemy, 
 -  Convert the June temperatures to a list: I used a for loop to go through the iteration till 2017-06-30
 -  Create a DataFrame from the list of temperatures for the month of June: I used the variable(df_june) to store the dataframe aand named the columns. Code "df_june = pd.DataFrame(june_dates, columns=['Date','June Temps'])" 
 -  To calculate and print out the summary statistics for the June temperature DataFrame, i used df_june.describe(). See image below
--  ![]()
+-  ![](https://github.com/JaredTMurray/surfs_up/blob/main/Del-1.png)
 
 
 File ~\anaconda3\lib\site-packages\sqlalchemy\util\_collections.py:186, in Properties.__getattr__(self, key)
