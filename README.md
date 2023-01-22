@@ -9,10 +9,11 @@ for the assignment I used Python, Pandas functions and methods, and SQLAlchemy, 
 ## Results:
 
 ## Deliverable 1: Summary Statistics for June 
- I  import the sqlalchemy extract function, from sqlalchemy import extract and import datetime as dt, to perform the a query that filters the Measurement table to retrieve the temperatures for the month of June. Seefile
-- Variable start = dt.datetime(2017, 5, 31), started on the last day in may because it is exclued to the date value.
--  Attribute Error
+ I  import the sqlalchemy extract function, from sqlalchemy import extract and import datetime as dt, to perform the a query that filters the Measurement table to retrieve the temperatures for the month of June.
 - See file [SurfUp_Challege file](https://github.com/JaredTMurray/surfs_up/blob/main/SurfsUp_Challenge.ipynb)
+- To filter the query through the Measurement table to retrieve the temperatures for the month of June, I used the variable start = dt.datetime(2017, 5, 31), started on the last day in May because it is exclued in the date value from June to satrt at the 1st day in June.I then placed the result in the variable results = session.query(Measurement.date, Measurement.prcp).filter(Measurement.date >= start).all()
+-  Convert the June temperatures to a list: 
+
 
 File ~\anaconda3\lib\site-packages\sqlalchemy\util\_collections.py:186, in Properties.__getattr__(self, key)
     185 try:
