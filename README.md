@@ -26,4 +26,4 @@ for the assignment I used Python, Pandas functions and methods, and SQLAlchemy, 
 - ![](https://github.com/JaredTMurray/surfs_up/blob/main/Del-2.png)
 
 ### Summary:
-Additional time is needed to add two additional queries to perform to gather more weather data for June and December.
+Based on the calculate summary statistics for the June  and December temperature, June had a much higher temperture that December.
