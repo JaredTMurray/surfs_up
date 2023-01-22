@@ -23,7 +23,7 @@ for the assignment I used Python, Pandas functions and methods, and SQLAlchemy, 
 - Convert the December temperatures to a list: I firat created a emmpty list dec_dates =[] and used a for loop and if statement to go through the iteration and break the loop at result =  ('2017-12-31', 0.01)
 - Create a DataFrame from the list of temperatures for the month of December. the variable df_dec = pd.DataFrame(dec_dates, columns=['Date','December Temps']) and print the december results through df_dec.head()
 - Calculate and print out the summary statistics for the Decemeber temperature DataFrame, I used the the variable df_dec.describe(). See image belo
-- ![]([)](https://github.com/JaredTMurray/surfs_up/blob/main/Del-2.png)
+- ![](https://github.com/JaredTMurray/surfs_up/blob/main/Del-2.png)
 
 ### Summary:
 Additional time is needed to add two additional queries to perform to gather more weather data for June and December.
