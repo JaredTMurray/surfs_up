@@ -2,17 +2,17 @@
 ## Analysis Report
 
 ## Overview of the statistical analysis:
-for the assignment I used Python, Pandas functions and methods, and SQLAlchemy, to filter the date column of the Measurements table in the [hawaii.sqlite]() database to retrieve all the temperatures for the month of June and December. I then converted those temperatures to a list, create a DataFrame from the list, and generate the summary statistics.There were two deliverables as follows:
+for the assignment I used Python, Pandas functions and methods, and SQLAlchemy, to filter the date column of the Measurements table in the [hawaii.sqlite](https://github.com/JaredTMurray/surfs_up/blob/main/hawaii.sqlite) database to retrieve all the temperatures for the month of June and December. I then converted those temperatures to a list, create a DataFrame from the list, and generate the summary statistics.There were two deliverables as follows:
  - Deliverable 1: Determine the Summary Statistics for June
  - Deliverable 2: Determine the Summary Statistics for December
 
 ## Results:
 
 ## Deliverable 1: Summary Statistics for June 
- The variable month_june was used to store the June value in the dataframe.
-Several errors occur
--  NameError Traceback (most recent call last)
+ I  import the sqlalchemy extract function, from sqlalchemy import extract and import datetime as dt, to perform the a query that filters the Measurement table to retrieve the temperatures for the month of June. Seefile
+- Variable start = dt.datetime(2017, 5, 31), started on the last day in may because it is exclued to the date value.
 -  Attribute Error
+- See file [SurfUp_Challege file](https://github.com/JaredTMurray/surfs_up/blob/main/SurfsUp_Challenge.ipynb)
 
 File ~\anaconda3\lib\site-packages\sqlalchemy\util\_collections.py:186, in Properties.__getattr__(self, key)
     185 try:
