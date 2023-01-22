@@ -26,4 +26,4 @@ for the assignment I used Python, Pandas functions and methods, and SQLAlchemy, 
 - ![](https://github.com/JaredTMurray/surfs_up/blob/main/Del-2.png)
 
 ### Summary:
-Based on the calculate summary statistics for the June  and December temperature, June had a much higher temperture that December.
+Based on the calculate summary statistics for the June and December temperature, June had a much higher temperture that December.While for min, 25% they both have a recording of 0.0000 while for the 50% SD June0.000000 while December had  0.010000.
